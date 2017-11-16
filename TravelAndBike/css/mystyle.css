@@ -1,0 +1,75 @@
+.w3l-welcome-grid img {
+	height: 150px;
+	width: 100%;
+}
+
+.wwa {
+	background-color: #CC3939;
+	opacity: 0.7;
+	border-color: 1px solid #000;
+}
+.btm-right img {
+	height: 250px;
+}
+
+.btm-right {
+	margin-bottom: 10px;
+}
+
+.news-section {
+    padding: 4em 0 3.5em;
+}
+a.news-btn {
+    color: #000;
+    display: inline-block;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #008e10;
+    color: #FFF;
+    padding: 0.5em 1em;
+    margin-bottom: 20px;
+    border-radius: 0.5em;
+    border-bottom-right-radius: 5em;
+    border-top-right-radius: 5em
+}
+a.news-btn:hover {
+    background: #161616;
+}
+
+.news-column h4 {
+    font-size: 1.3em;
+    text-transform: uppercase;
+    color: #000;
+    font-weight: 700;
+    padding: 0.8em 0 0.3em;
+    margin: 0;
+}
+.news-column p {
+    color: #777;
+    line-height: 1.7em;
+    padding: 0.1em 0 0em;
+    display: block;
+    font-size: 1em;
+}
+.news-column img {
+	height : 400px;
+}
+/*  nội dung trip */
+.details-trip h1 {
+	margin: 20px 0px 40px 0px
+}
+.details-trip {
+	padding: 20px;
+}
+.details-trip img {
+	width: 700px;
+	margin: 0 auto;
+}
+figcaption {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.details-trip li {
+	margin-left: 30px
+}
